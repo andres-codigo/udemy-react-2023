@@ -8,7 +8,8 @@ function App() {
 
   useEffect(() => {
     fetchBooks()
-  }, [fetchBooks])
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
 
   return (
     <div className="app">
