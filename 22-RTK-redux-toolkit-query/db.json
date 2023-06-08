@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "name": "Dr. Tracey Herzog",
+      "id": 7
+    },
+    {
+      "name": "Vicki Padberg",
+      "id": 9
+    },
+    {
+      "name": "Benjamin Carroll",
+      "id": 10
+    },
+    {
+      "name": "Patsy Hettinger",
+      "id": 11
+    },
+    {
+      "name": "Gilberto Heidenreich DVM",
+      "id": 12
+    }
+  ],
+  "albums": [
+    {
+      "userId": 7,
+      "title": "Intelligent Soft Bike",
+      "id": 4
+    },
+    {
+      "userId": 9,
+      "title": "Generic Wooden Chips",
+      "id": 6
+    },
+    {
+      "userId": 10,
+      "title": "Sleek Steel Tuna",
+      "id": 7
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1857398721478656",
+      "id": 1
+    },
+    {
+      "albumId": 4,
+      "url": "https://picsum.photos/seed/nTRKo/640/480",
+      "id": 2
+    },
+    {
+      "albumId": 4,
+      "url": "https://loremflickr.com/640/480?lock=1957836170985472",
+      "id": 3
+    }
+  ]
+}
